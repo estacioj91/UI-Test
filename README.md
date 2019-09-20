@@ -1,4 +1,5 @@
 # UI-Test
+This test was to create a mockup as close as possible using assets provided and have it be responsive across mobile devices.
 ## Desktop View
 ![Screenshot](./readme_images/Screenshot4.png)
 ## Galaxy Note
